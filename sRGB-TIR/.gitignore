@@ -1,0 +1,6 @@
+**__pycache__
+**/data
+/outputs
+/logs
+outputs_segmentation
+outputs_segmentation_rgb_only

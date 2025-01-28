@@ -1,0 +1,3 @@
+[submodule "DeepLabV3s"]
+	path = DeepLabV3s
+	url = https://github.com/VainF/DeepLabV3Plus-Pytorch.git
