@@ -1,0 +1,1 @@
+# RGB-to-Thermal-Image-Translation
